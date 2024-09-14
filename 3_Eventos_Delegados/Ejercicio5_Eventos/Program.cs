@@ -18,7 +18,7 @@ if (DateTime.TryParse(HoraDeAlarma, out TiempoDeAlarma))
     }
 
     AlarmClock alarma = new AlarmClock(TiempoDeAlarma);
-    alarma.EncendidoDeAlarma += AlarmClock_OnAlarmRing;
+    alarma.EncendidoDeAlarma += tiempoAcabado;
 
     Console.WriteLine("Alarma configurada para: " + TiempoDeAlarma.ToString("HH:mm:ss"));
     alarma.Inicio();
@@ -32,7 +32,7 @@ else
 {
     Console.WriteLine("Hora inválida");
 }
-static void AlarmClock_OnAlarmRing(object sender, EventArgs e)
+static void tiempoAcabado(object sender, EventArgs e)
 {
     Console.WriteLine("LEVANTATEEE!!!!!!!!");
 }
