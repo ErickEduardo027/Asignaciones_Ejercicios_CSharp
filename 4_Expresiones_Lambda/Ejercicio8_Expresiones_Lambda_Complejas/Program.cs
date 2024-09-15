@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Ejercicio #8");
+Console.WriteLine("Ejercicio #8\n");
 //Implementa una función que reciba una lista de estudiantes (nombre y edad) y utilice una expresión lambda para filtrar aquellos mayores de 18 años.
 
 List<Estudiante> Estudiantes = new List<Estudiante>

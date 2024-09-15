@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Ejercicio #17");
+Console.WriteLine("Ejercicio #17\n");
 //Crea una interfaz genérica IContenedor<T> que defina métodos para agregar y obtener elementos. 
 //Implementa esta interfaz en la clase Caja<T>.
 

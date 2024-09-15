@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using static System.Runtime.InteropServices.JavaScript.JSType;
 
-Console.WriteLine("Ejercicio #15");
+Console.WriteLine("Ejercicio #15\n");
 //Usa polimorfismo para permitir que tanto Perro como Gato sean tratados como Animal en una lista y que cada uno pueda "hablar" correctamente al recorrer la lista.
 
 List<Animal> animales = new List<Animal>()

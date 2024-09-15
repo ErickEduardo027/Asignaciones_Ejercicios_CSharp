@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Ejercicio #16");
+Console.WriteLine("Ejercicio #16\n");
 //Crea una clase genérica Caja<T> que pueda almacenar cualquier tipo de objeto. 
 //Implementa métodos para añadir y obtener objetos de la caja.
 

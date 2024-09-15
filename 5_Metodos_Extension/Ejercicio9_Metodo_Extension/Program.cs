@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Ejercicio #9");
+Console.WriteLine("Ejercicio #9\n");
 //Crea un método de extensión que extienda la clase string para contar cuántas veces aparece una vocal en un texto.
 
 string texto = "Hola me llamo Erick Eduardo y me gusta mucho la yaroa con mucho queso y carne.";

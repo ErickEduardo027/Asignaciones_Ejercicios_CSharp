@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Ejercicio #10");
+Console.WriteLine("Ejercicio #10\n");
 //	Usa el método de extensión creado en el ejercicio anterior para contar las vocales en una oración introducida por el usuario.
 
 Console.WriteLine("Por favor, introduce una oración:");

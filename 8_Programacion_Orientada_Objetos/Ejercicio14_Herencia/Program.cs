@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Ejercicio #14");
+Console.WriteLine("Ejercicio #14\n");
 //Crea una clase base Animal y dos clases derivadas Perro y Gato. 
 //Implementa un método Hablar en cada clase que imprima un sonido diferente para cada animal.
 

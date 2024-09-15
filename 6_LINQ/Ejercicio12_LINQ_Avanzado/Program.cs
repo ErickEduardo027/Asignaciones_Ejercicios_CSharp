@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Ejercicio #12");
+Console.WriteLine("Ejercicio #12\n");
 //Crea una clase Producto con propiedades Nombre, Precio y Categoría.
 //Luego, usa LINQ para agrupar los productos por categoría y calcular el precio promedio por grupo.
 

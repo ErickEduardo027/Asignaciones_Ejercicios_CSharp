@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Ejercicio #13");
+Console.WriteLine("Ejercicio #13\n");
 //Crea un programa con un bucle que genere números aleatorios del 1 al 100. 
 //Introduce de manera intencional un error lógico y usa las herramientas de depuración de Visual Studio para identificar y corregir el error.
 Console.WriteLine("Generador de números aleatorios del 1 al 100");
